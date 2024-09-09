@@ -32,6 +32,9 @@ Some potential questions for NeurIPS audience
 * What do you say to the claim that “privacy is dead”, or “we don’t need privacy”?
 * What are the limitations that you think are solvable in the near term?
 
+## A. Feder Cooper
+Dr. Cooper is a Postdoctoral Researcher at Microsoft Research, an Affiliate Researcher at Stanford HAI, and a future Assistant Professor, Yale CS. Cooper researched topics on reliable measurement and evaluation of machine learning systems and is a co-founder of the [GenLaw Center](https://genlaw.org/).
+
 # Tentative Outline
 **Incentive Issues in ML Evaluations: An Epistemological Crisis.**
 
