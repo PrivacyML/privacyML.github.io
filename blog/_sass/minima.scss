@@ -1,0 +1,111 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 900
+
+.noto-serif-jp-eva-title {
+  font-family: "Noto Serif JP", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$header-font-family: 'Times New Roman', serif !default;//'Source Serif 4', // Georgia,'Times New Roman',serif !default;
+
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+//$text-color:       #111 !default;
+//$background-color: #fdfdfd !default;
+$text-color: #fdfdfd !default; // dark theme
+$background-color: #111 !default; // dark theme
+$brand-color: #fde295!default;
+//$brand-color:      #079077 !default;
+$highlight-color:  #fab6e4 !default;
+
+// $grey-color:       #828282 !default;
+// $grey-color:       #2d4857 !default;
+$grey-color:       #ebeee8 !default; // dark theme
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+
+h1 {
+  text-align:center;
+  color:$brand-color;
+  //font-family: "Noto Serif JP", serif;
+  //font-family: "Source Serif 4", serif;
+  font-family: $header-font-family;
+  text-transform: capitalize;
+  text-shadow : horizontal-shadow vertical-shadow blur color;
+}
+h1::before,
+h1::after {
+    display: inline-block;
+    content: "";
+    border-top: .1rem solid $brand-color;
+    width: 3rem;
+    margin: 0 1rem;
+    transform: translateY(-0.7rem);
+}
+
+.body a {
+  text-decoration: double;
+  text-decoration-color: $highlight-color;
+}
+
+@include media-query($on-palm) {
+  .wrapper {
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
+  .site-header {
+   top:0;
+   position:sticky;
+   z-index: 5;
+  }
+  .h1 {
+   @include relative-font-size(1.15);
+  }
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+
+;
