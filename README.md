@@ -99,10 +99,11 @@ Scientific: Machine learning conference publishing culture can encourage poor me
 * Data-intensive training hurts held-outness
 
 **Environmental**
-Controlling existent GPU footprint
-Mass production of hardware to support TEE
-Cheaper inference infrastructure
-Policy interventions
+* Controlling existent GPU footprint
+* Mass production of hardware to support TEE
+* Cheaper inference infrastructure
+* Policy interventions
+
 **Tractable technical problems for NeurIPS Community**
 
 * Software infrastructure maturity
