@@ -22,17 +22,12 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-//$text-color:       #111 !default;
-//$background-color: #fdfdfd !default;
 $text-color: #fdfdfd !default; // dark theme
 $background-color: #111 !default; // dark theme
 $brand-color: #fde295!default;
-//$brand-color:      #079077 !default;
 $highlight-color:  #fab6e4 !default;
 
-// $grey-color:       #828282 !default;
-// $grey-color:       #2d4857 !default;
-$grey-color:       #ebeee8 !default; // dark theme
+$grey-color:       #fbe9d8 !default; // dark theme
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
@@ -43,14 +38,6 @@ $content-width:    800px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
-// }
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {

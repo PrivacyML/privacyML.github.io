@@ -4,7 +4,7 @@
 layout: home
 title:
 permalink: /
-hero: "assets/img/eva-title.jpg"
+hero: "assets/img/eva-title.png"
 ---
 [//]: # Through our work on evaluations of privacy technology for machine learning, we found that disparate communities in ML training, large model R&D, and safety and policy urgently want to have an overview on the state of privacy and evaluations that suit their purpose, especially as generative AI technologies become important. However, there is no single technology that fits all use cases, and without in-depth knowledge of both machine learning and cryptography, it can be very difficult to initiate research in this impactful and fast-moving field. We hope that clarifying the technologies for this purpose will help towards effective scientific coordination.
 # Why Tutorial?
