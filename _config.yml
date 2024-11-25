@@ -18,8 +18,9 @@ contact: mimee@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Meaningful Privacy-Preserving Machine Learning and How To Evaluate AI Privacy.
   privacy.github.io | ML Privacy & Privacy Eval | A NeurIPS 2024 Tutorial | Vancouver, British Columbia, Canada | Dec 10, 2024
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+baseurl: ""
+url: "https://privacyml.github.io"
 twitter_username: mimeexu
 
 # Build settings
