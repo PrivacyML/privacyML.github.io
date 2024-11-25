@@ -2,5 +2,5 @@
 layout: home
 title: "Abstract"
 permalink: /#abstract
-hero: "assets/img/eva-title.jpg"
+hero: "blog/assets/img/eva-title.jpg"
 ---
