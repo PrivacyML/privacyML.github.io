@@ -29,10 +29,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+sass:
+ sass_dir: blog/_sass
 source: blog/
 layouts_dir: blog/_layouts
-sass:
- sass_dir: _sass
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
