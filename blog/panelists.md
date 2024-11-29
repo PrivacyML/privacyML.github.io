@@ -21,8 +21,3 @@ With broad interests in applied cryptography, privacy, and security, much of his
 
 # A. Feder Cooper
 Dr. Cooper is a Postdoctoral Researcher at Microsoft Research, an Affiliate Researcher at Stanford HAI, and a future Assistant Professor, Yale CS. Cooper researched topics on reliable measurement and evaluation of machine learning systems and is a co-founder of the [GenLaw Center](https://genlaw.org/).
-
-# Rebecca Qian
-Rebecca is the co-founder and CTO of Patronus AI, the industry-first automated LLM evaluation and security platform. The platform enables enterprises to test, score, and benchmark LLM performance on real world scenarios, generate adversarial test cases at scale, monitor hallucinations and other unexpected behavior, and more. Customers include numerous Fortune 500 companies with use cases in diverse domains such as finance, education, and automotive applications.
-
-Prior to Patronus AI, Rebecca was an AI researcher at Meta AI, where she led research in Responsible AI and evaluation. During her time at Meta, she drove research in robustness and safety across NLP domains and use cases, including training the first LLM with demographically debiased data. She has presented her work at venues and conferences including EMNLP, NeurIPS and ACL.
