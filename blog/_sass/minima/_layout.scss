@@ -228,7 +228,14 @@ html {
   }
 }
 
-
+/**
+ * Bio images
+ */
+.post-content img {
+  display: block;
+  margin: auto;
+  max-width: 60%;
+}
 /**
  * Posts
  */
