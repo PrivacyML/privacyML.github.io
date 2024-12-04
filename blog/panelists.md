@@ -12,6 +12,7 @@ As you meet the speakers, we welcome questions sent to us. Some potential questi
 * What are the limitations that you think are solvable in the near term?
 
 # Niloofar Mireshghallah
+![headshot_niloofar]({{ site.baseurl }}{% link blog/assets/img/niloofar.jpg %})
 Niloofar Mireshghallah is a post-doctoral scholar at the Paul G. Allen Center for Computer Science & Engineering at University of Washington. She received her Ph.D. from the CSE department of UC San Diego in 2023. Her research interests are Trustworthy Machine Learning and Natural Language Processing. She is a recipient of the National Center for Women & IT (NCWIT) Collegiate award in 2020 for her work on privacy-preserving inference, a finalist of the Qualcomm Innovation Fellowship in 2021 and a recipient of the 2022 Rising star in Adversarial ML award.
 
 # Kim Laine
@@ -19,5 +20,7 @@ Kim Laine is a Principal Researcher at Microsoft Research's Cryptography Group. 
 
 With broad interests in applied cryptography, privacy, and security, much of his past work developed and applied homomorphic encryption. For example, he built much of the [Microsoft SEAL](https://www.microsoft.com/en-us/research/project/microsoft-seal/) homomorphic encryption library and of the [APSI](https://github.com/Microsoft/APSI) private set intersection library, co-organizers of the (HomomorphicEncryption.org)[HomomorphicEncryption.org] standardization initiative. He graduated with an MSc in mathematical physics from University of Helsinki and with a PhD in mathematics from UC Berkeley.
 
-# A. Feder Cooper
-Dr. Cooper is a Postdoctoral Researcher at Microsoft Research, an Affiliate Researcher at Stanford HAI, and a future Assistant Professor, Yale CS. Cooper researched topics on reliable measurement and evaluation of machine learning systems and is a co-founder of the [GenLaw Center](https://genlaw.org/).
+# Sara Hooker
+![headshot_sarahooker]({{ site.baseurl }}{% link blog/assets/img/sara.jpg %})
+
+Sara Hooker leads Cohere For AI, the dedicated research arm of Cohere. Cohere For AI seeks to solve complex machine learning problems and supports fundamental research that explores the unknown. With a long track-record of impactful research at Google Brain, Sara brings a wealth of knowledge from across machine learning.  Her work has focused on model efficiency training techniques and optimizing for models that fulfill multiple desired criteria -- interpretable, efficient, fair and robust. Sara leads a team of researchers and engineers working on making large language models more efficient, safe and grounded. Sara is currently on Kaggle's ML Advisory Research Board and serves on the World Economic Forum council on the Future of Artificial Intelligence.
