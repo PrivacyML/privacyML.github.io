@@ -6,10 +6,10 @@ permalink: /schedule/
 
 | Section                          | Start | End  |
 |----------------------------------|-------|------|
-| Introduction: PrivacyML Overview | 2:30  | 2:45 |
-| Confidential Computation         | 2:45  | 3:20 |
-| Tea Break                        | 3:20  | 3:30 |
-| Empirical Evaluations            | 3:30  | 3:40 |
-| Evaluating Differential Privacy  | 3:45  | 4:00 |
-| Evaluating Machine Unlearning    | 4:00  | 4:15 |
-| Demo + Panel                     | 4:25  | 5:00 |
+| Introduction                     | 1:30  | 1:45 |
+| Confidential Computation         | 1:45  | 2:20 |
+| Coffee Break                        | 2:20  | 2:30 |
+| Differential Privacy and Federated Learning | 2:30  | 3:00|
+| Trusted Execution Environments (Demo) | 3:00 | 3:20
+| Evaluating Machine Unlearning    | 3:20  | 3:30 |
+| Panel                            | 3:30  | 4:00 |
