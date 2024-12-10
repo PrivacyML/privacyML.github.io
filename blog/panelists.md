@@ -16,9 +16,11 @@ As you meet the speakers, we welcome questions sent to us. Some potential questi
 Niloofar Mireshghallah is a post-doctoral scholar at the Paul G. Allen Center for Computer Science & Engineering at University of Washington. She received her Ph.D. from the CSE department of UC San Diego in 2023. Her research interests are Trustworthy Machine Learning and Natural Language Processing. She is a recipient of the National Center for Women & IT (NCWIT) Collegiate award in 2020 for her work on privacy-preserving inference, a finalist of the Qualcomm Innovation Fellowship in 2021 and a recipient of the 2022 Rising star in Adversarial ML award.
 
 # Kim Laine
+[headshot_sarahooker]({{ site.baseurl }}{% link blog/assets/img/kim.png %})
+
 Kim Laine is a Principal Researcher at Microsoft Research's Cryptography Group. He is particularly interested in privacy and compliance issues that arise from modern machine learning practices. He works on practical systems for key distributions in E2EE communication, including key transparency systems. He is also working on reputation and accountability systems that can ensure reliable signals in adversarial environments.
 
-With broad interests in applied cryptography, privacy, and security, much of his past work developed and applied homomorphic encryption. For example, he built much of the [Microsoft SEAL](https://www.microsoft.com/en-us/research/project/microsoft-seal/) homomorphic encryption library and of the [APSI](https://github.com/Microsoft/APSI) private set intersection library, co-organizers of the (HomomorphicEncryption.org)[HomomorphicEncryption.org] standardization initiative. He graduated with an MSc in mathematical physics from University of Helsinki and with a PhD in mathematics from UC Berkeley.
+With broad interests in applied cryptography, privacy, and security, much of his past work developed and applied homomorphic encryption. For example, he built much of the [Microsoft SEAL](https://www.microsoft.com/en-us/research/project/microsoft-seal/) homomorphic encryption library and of the [APSI](https://github.com/Microsoft/APSI) private set intersection library, co-organizers of the [HomomorphicEncryption.org](https://homomorphicencryption.org/) standardization initiative. He graduated with an MSc in mathematical physics from University of Helsinki and with a PhD in mathematics from UC Berkeley.
 
 # Sara Hooker
 ![headshot_sarahooker]({{ site.baseurl }}{% link blog/assets/img/sara.jpg %})
